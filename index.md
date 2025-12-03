@@ -3,6 +3,8 @@
 
 I am a computer science major at CSUF and I plan on gragruating in 2028
 
+My GitHub page is https://github.com/TamPhan-coder
+
 ## Favorite CPCS 120L Labs
 
 * Lab 1 part 1
